@@ -7,5 +7,4 @@
 *.sln.docstates
 
 # Ignore other IDE and build-related files
-bin/
 obj/
