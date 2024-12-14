@@ -1,0 +1,10 @@
+﻿int age = 2000000000;
+Console.WriteLine(age);
+float pi = 3.14f;
+Console.WriteLine(pi);
+double temperature = 36.6e40;
+Console.WriteLine(temperature);
+char dollar = '$';
+Console.WriteLine(dollar);
+String name = "Atidan Tech";
+Console.WriteLine(name);
